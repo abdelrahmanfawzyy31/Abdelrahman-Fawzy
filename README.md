@@ -1,5 +1,5 @@
 <h2>
-  <img src="https://emojis.slackmojis.com/emojis/images/1588315024/8823/hyperkitty.gif?1588315024" width="30" />
+
   Hi, welcome!
 </h2>
 
@@ -76,29 +76,6 @@ I am focused on Security Operations Center work, threat detection, incident resp
   <img src="https://img.shields.io/badge/HTML%20%26%20CSS-Web%20Basics-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
 </p>
 
-<h3>
-  <img src="https://emojis.slackmojis.com/emojis/images/1643514068/49778/computer.gif?1643514068" width="28" />
-  Projects
-</h3>
-
-<table>
-  <tr>
-    <td width="50%">
-      <h4>Library Management System</h4>
-      <p>
-        University project built with SQL and GUI functionality to manage book records,
-        user accounts, borrowing history, and automated return alerts.
-      </p>
-    </td>
-    <td width="50%">
-      <h4>Windows Server 2019 Security Configuration</h4>
-      <p>
-        Security+ course project focused on Windows Server hardening,
-        access control, privilege management, and security policies.
-      </p>
-    </td>
-  </tr>
-</table>
 
 <h3>
   <img src="https://emojis.slackmojis.com/emojis/images/1643514078/49781/books.gif?1643514078" width="28" />
