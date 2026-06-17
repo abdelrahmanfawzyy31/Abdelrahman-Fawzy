@@ -1,10 +1,63 @@
-&nbsp;<div align="center">
-  [![Last.fm](https://novatorem.vercel.app/api/orchestrator?background_type=blur_dark&border_color=ffffff")](https://novatorem.vercel.app/redirect)
-</div>
+<h2> <img src="https://emojis.slackmojis.com/emojis/images/1588315024/8823/hyperkitty.gif?1588315024" width="30" /> Hi, welcome! </h2>
 
-&nbsp;<div align="center">
-  [Fork](https://github.com/novatorem/novatorem/blob/main/SetUp.md) this [unlicensed](https://choosealicense.com/licenses/unlicense/) repository to recreate!<br><br>
-  [![Linkedin](https://img.shields.io/badge/linked-in-369?style=flat-square&logo=linkedin&logoColor=white&color=blue)](https://www.linkedin.com/in/andrew-novac)
-  [![E-Mail](https://img.shields.io/badge/email-reveal-2a8?style=flat-square&logo=gmail&logoColor=white)](https://mail.novac.dev/)
-  [![Visits](https://komarev.com/ghpvc/?username=novatorem&logo=GitHub&label=github%20visits&color=336699&logoColor=white&style=flat-square)](https://github.com/novatorem)
-</div>
+I'm **xrkffgg**, a Front-end developer from **China** <img src="https://user-images.githubusercontent.com/29775873/142716615-98e19a67-393c-47c9-b9e4-c9cacb1a6ffd.png" width="28" />. In most cases, active in the following. Welcome to try them.
+
+<table>
+  <tr>
+    <td align="center" width="200">
+      <a href="https://github.com/ant-design">
+        <img src="https://avatars1.githubusercontent.com/u/12101536?s=200&v=4" width="60" />
+        <br />
+        ant-design
+      </a>
+    </td>
+    <td align="center" width="200">
+      <a href="https://github.com/react-component">
+        <img src="https://avatars1.githubusercontent.com/u/9441414?s=200&v=4" width="60" />
+        <br />
+        react-component
+      </a>
+    </td>
+    <td align="center" width="200">
+      <a href="https://github.com/actions-cool">
+        <img src="https://avatars1.githubusercontent.com/u/73879334?s=200&v=4" width="60" />
+        <br />
+        actions-cool
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="200">
+      <a href="https://github.com/umijs">
+        <img src="https://avatars2.githubusercontent.com/u/33895495?s=200&v=4" width="60" />
+        <br />
+        umijs
+      </a>
+    </td>
+    <td align="center" width="200">
+      <a href="https://github.com/antvis">
+        <img src="https://avatars.githubusercontent.com/u/19199542?s=200&v=4" width="60" />
+        <br />
+        antvis
+      </a>
+    </td>
+    <td align="center" width="200">
+      <a href="https://github.com/vueComponent">
+        <img src="https://avatars2.githubusercontent.com/u/32120805?s=200&v=4" width="60" />
+        <br />
+        vueComponent
+      </a>
+    </td>
+  </tr>
+</table>
+
+<sub>🔥 对 小程序、Ant Design、 AntV、Umi 感兴趣，简历拿来：xrkffgg@gmail.com</sub>
+
+<h3> <img src="https://emojis.slackmojis.com/emojis/images/1621024394/39092/cat-roll.gif?1621024394" width="28" /> <a href="https://github.com/xrkffgg/xrkffgg/blob/master/quotations.md"> Daily Quotations</a></h3>
+
+<kbd>2026-06-16</kbd>
+
+- The only thing I know is that I know nothing. – Socrates 
+
+<!-- Randomly taken from quotations.md -->
+
