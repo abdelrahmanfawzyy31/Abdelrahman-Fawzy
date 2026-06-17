@@ -1,27 +1,40 @@
-<h2>
-
-  Hi, welcome!
-</h2>
-
-I'm <strong>Abdelrahman Fawzy</strong>, a <strong>Cyber Security Student</strong> and <strong>SOC Analyst Trainee</strong> from Cairo, Egypt
-<img src="https://flagcdn.com/w40/eg.png" width="28" />.
-
-I am focused on Security Operations Center work, threat detection, incident response, log analysis, SIEM tools, and network security.
+<h1>
+  <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/>
+  Hey! Nice to see you.
+</h1>
 
 <p>
-  <a href="mailto:abdelrahmanfawzyy31@gmail.com">
-    <img src="https://img.shields.io/badge/Email-abdelrahmanfawzyy31%40gmail.com-red?style=flat-square&logo=gmail&logoColor=white" />
-  </a>
-  <a href="YOUR-LINKEDIN-LINK">
-    <img src="https://img.shields.io/badge/LinkedIn-Abdelrahman%20Fawzy-blue?style=flat-square&logo=linkedin&logoColor=white" />
-  </a>
-  <img src="https://img.shields.io/badge/Role-SOC%20Analyst%20Trainee-0f172a?style=flat-square&logo=securityscorecard&logoColor=white" />
+  Welcome to my page! <br/>
+  I'm <b>Abdelrahman Fawzy</b>, a Cyber Security Student and SOC Analyst Trainee from
+  <img src="https://flagcdn.com/w40/eg.png" width="18"/>
+  <b>Cairo, Egypt</b>.
 </p>
 
-<h3>
-  <img src="https://emojis.slackmojis.com/emojis/images/1643514471/49859/alert.gif?1643514471" width="28" />
-  Cyber Security Focus
-</h3>
+<p>
+  I am focused on SOC operations, threat detection, incident response, log analysis,
+  SIEM tools, network security, and risk management.
+</p>
+
+<h3>Things I work with</h3>
+
+<p>
+  <img alt="SOC Operations" src="https://img.shields.io/badge/-SOC%20Operations-111827?style=flat-square&logo=securityscorecard&logoColor=white" />
+  <img alt="Threat Detection" src="https://img.shields.io/badge/-Threat%20Detection-dc2626?style=flat-square&logo=protonvpn&logoColor=white" />
+  <img alt="Incident Response" src="https://img.shields.io/badge/-Incident%20Response-f97316?style=flat-square&logo=opsgenie&logoColor=white" />
+  <img alt="SIEM" src="https://img.shields.io/badge/-SIEM%20Tools-000000?style=flat-square&logo=splunk&logoColor=white" />
+  <img alt="Log Analysis" src="https://img.shields.io/badge/-Log%20Analysis-2563eb?style=flat-square&logo=elastic&logoColor=white" />
+  <img alt="Network Security" src="https://img.shields.io/badge/-Network%20Security-0f766e?style=flat-square&logo=cisco&logoColor=white" />
+  <img alt="Linux" src="https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black" />
+  <img alt="Windows Server" src="https://img.shields.io/badge/-Windows%20Server%202019-0078D6?style=flat-square&logo=windows&logoColor=white" />
+  <img alt="Python" src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+  <img alt="C++" src="https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=cplusplus&logoColor=white" />
+  <img alt="SQL" src="https://img.shields.io/badge/-SQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
+  <img alt="HTML5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
+  <img alt="CSS3" src="https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" />
+  <img alt="GitHub" src="https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white" />
+</p>
+
+<h3>Cyber Security Focus</h3>
 
 <table>
   <tr>
@@ -60,41 +73,47 @@ I am focused on Security Operations Center work, threat detection, incident resp
   </tr>
 </table>
 
-<h3>
-  <img src="https://emojis.slackmojis.com/emojis/images/1621024394/39092/cat-roll.gif?1621024394" width="28" />
-  Tools & Technologies
-</h3>
+<h3>Projects</h3>
 
-<p>
-  <img src="https://img.shields.io/badge/SIEM-Tools-111827?style=for-the-badge&logo=splunk&logoColor=white" />
-  <img src="https://img.shields.io/badge/Wireshark-Network%20Analysis-1679A7?style=for-the-badge&logo=wireshark&logoColor=white" />
-  <img src="https://img.shields.io/badge/Linux-Fundamentals-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
-  <img src="https://img.shields.io/badge/Windows%20Server-2019-0078D6?style=for-the-badge&logo=windows&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python-Scripting-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/SQL-Database-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/C++-Programming-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" />
-  <img src="https://img.shields.io/badge/HTML%20%26%20CSS-Web%20Basics-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-</p>
+<table>
+  <thead align="center">
+    <tr>
+      <td><b>Projects</b></td>
+      <td><b>Focus</b></td>
+      <td><b>Skills</b></td>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><b>Library Management System</b></td>
+      <td>University Database Project</td>
+      <td>SQL, Database Design, GUI, Data Integrity</td>
+    </tr>
+    <tr>
+      <td><b>Windows Server 2019 Security Configuration</b></td>
+      <td>Security+ Course Project</td>
+      <td>Hardening, Access Control, Security Policies, Privilege Management</td>
+    </tr>
+    <tr>
+      <td><b>Wireless and Mobile Security Revision</b></td>
+      <td>Cyber Security Study Project</td>
+      <td>Python, HTML, PDF Extraction, Network Security Notes</td>
+    </tr>
+  </tbody>
+</table>
 
-
-<h3>
-  <img src="https://emojis.slackmojis.com/emojis/images/1643514078/49781/books.gif?1643514078" width="28" />
-  Education & Training
-</h3>
+<h3>Education & Training</h3>
 
 <ul>
-  <li><strong>B.Sc. Artificial Intelligence - Cyber Security</strong>, University of Monufia, 2023 - Expected 2027</li>
-  <li><strong>DEPI</strong> - Cyber Security Track, SOC Training</li>
-  <li><strong>eCIR Program</strong> - Cyber Security SOC Training</li>
-  <li><strong>CompTIA Security+</strong> - Certification Preparation</li>
-  <li><strong>CCNA</strong> - Network Fundamentals and Network Security</li>
-  <li><strong>MCSA</strong> - Windows Server 2019 Administration and Security</li>
+  <li><b>B.Sc. Artificial Intelligence - Cyber Security</b>, University of Monufia, 2023 - Expected 2027</li>
+  <li><b>DEPI</b> - Cyber Security Track, SOC Training</li>
+  <li><b>eCIR Program</b> - Cyber Security SOC Training</li>
+  <li><b>CompTIA Security+</b> - Certification Preparation</li>
+  <li><b>CCNA</b> - Network Fundamentals and Network Security</li>
+  <li><b>MCSA</b> - Windows Server 2019 Administration and Security</li>
 </ul>
 
-<h3>
-  <img src="https://emojis.slackmojis.com/emojis/images/1643514074/49780/radar.gif?1643514074" width="28" />
-  Currently Learning
-</h3>
+<h3>Currently Learning</h3>
 
 <ul>
   <li>SIEM investigations and alert triage</li>
@@ -104,24 +123,27 @@ I am focused on Security Operations Center work, threat detection, incident resp
   <li>Linux and Windows security fundamentals</li>
 </ul>
 
-<h3>
-  <img src="https://emojis.slackmojis.com/emojis/images/1643514070/49779/fire.gif?1643514070" width="28" />
-  GitHub Stats
-</h3>
+<h3>Where to find me</h3>
 
 <p>
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR-GITHUB-USERNAME&show_icons=true&theme=tokyonight" />
+  <a href="https://github.com/YOUR-GITHUB-USERNAME" target="_blank">
+    <img alt="GitHub" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="YOUR-LINKEDIN-LINK" target="_blank">
+    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:abdelrahmanfawzyy31@gmail.com" target="_blank">
+    <img alt="Email" src="https://img.shields.io/badge/Email-D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
 </p>
 
-<kbd>Cyber Security Student</kbd>
-<kbd>SOC Analyst Trainee</kbd>
-<kbd>Network Security</kbd>
-<kbd>Incident Response</kbd>
+<hr />
 
-<br />
-<br />
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR-GITHUB-USERNAME&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR-GITHUB-USERNAME&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
+</p>
 
-<sub>
-  Contact me: 
-  <a href="mailto:abdelrahmanfawzyy31@gmail.com">abdelrahmanfawzyy31@gmail.com</a>
-</sub>
+<p align="center">
+  <b>SOC Analyst Trainee</b> | <b>Cyber Security Student</b> | <b>Network Security</b>
+</p>
